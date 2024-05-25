@@ -74,6 +74,8 @@
 <h2>Systems & Databases</h2>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-008bb9?style=for-the-badge&logo=PostgreSQL&logoColor=008bb9&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Supabase-yellow?style=for-the-badge&logo=Supabase&logoColor=yellow&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-4183C4?style=for-the-badge&logo=Git&logoColor=4183C4&labelColor=black">
+
 <br>
 </section>
