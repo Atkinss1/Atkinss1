@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/atkins-jordan/">
       <img alt="Atkins' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0762C8?style=for-the-badge&logo=LinkedIn">
     </a>
-    <a href="https://www.linkedin.com/in/atkins-jordan/">
+    <a href="https://www.instagram.com/atkinsz/">
       <img alt="Atkins' Instagram" src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
   </p>
