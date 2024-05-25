@@ -84,11 +84,9 @@
 <br>
 
 <h2>Bucket-List To Learn</h2>
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F0DB4F?style=for-the-badge&logo=TypeScript&logoColor=F0DB4F&labelColor=black">
 
-<ul style="list-style-type: none">
-<li><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F0DB4F?style=for-the-badge&logo=TypeScript&logoColor=F0DB4F&labelColor=black">
-</li>
-<li><img alt="Static Badge" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=4584b6&labelColor=black">
-</li>
-</ul>
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=4584b6&labelColor=black">
+
 </section>
