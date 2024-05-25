@@ -12,13 +12,13 @@
 
   <p>
     <a href="https://atkinss1.github.io/portfolio/" target="blank">
-      <img alt="Atkins" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Proto.io&logoColor=white">
+      <img alt="Atkins' Portfolio" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Proto.io&logoColor=white">
     </a>
-    <a>
-      <img alt="Atkins" src="https://img.shields.io/badge/LinkedIn-0762C8?style=for-the-badge&logo=LinkedIn">
+    <a href="https://www.linkedin.com/in/atkins-jordan/">
+      <img alt="Atkins' LinkedIn" src="https://img.shields.io/badge/LinkedIn-0762C8?style=for-the-badge&logo=LinkedIn">
     </a>
-    <a>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a href="https://www.linkedin.com/in/atkins-jordan/">
+      <img alt="Atkins' Instagram" src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
   </p>
   </section>
