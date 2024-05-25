@@ -50,6 +50,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=blue">
 
   <br>
+
   <p><strong>FrameWorks</strong></p>
   <img alt="Static Badge" src="https://img.shields.io/badge/React_Js-61DBFB?style=for-the-badge&logo=React&logoColor=61DBFB&labelColor=black&color=61DBFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node_Js-3C873A?style=for-the-badge&logo=Node.js&logoColor=3C873A&labelColor=black&color=3C873A">
@@ -60,6 +61,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&logo=Bootstrap&logoColor=553C7B&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ruby_on_rails-CC0000?style=for-the-badge&logo=Ruby%20On%20Rails&logoColor=CC0000&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-CD6799?style=for-the-badge&logo=Sass&logoColor=CD6799&labelColor=black">
+  
   <br>
 
 
@@ -69,7 +71,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Rspec-e0115f?style=for-the-badge&logo=Ruby&logoColor=e0115f&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest&logoColor=yellow&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=8D6748&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Chai-FFA203?style=for-the-badge&logo=Chai&logoColor=FFA203&labelColor=black"><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Chai-FFA203?style=for-the-badge&logo=Chai&logoColor=FFA203&labelColor=black">
+
+<br>
 
 <h2>Systems & Databases</h2>
 
@@ -78,4 +82,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-4183C4?style=for-the-badge&logo=Git&logoColor=4183C4&labelColor=black">
 
 <br>
+
+<h2>Bucket-List To Learn</h2>
+
+<ul style="list-style-type: none">
+<li><img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F0DB4F?style=for-the-badge&logo=TypeScript&logoColor=F0DB4F&labelColor=black">
+</li>
+<li><img alt="Static Badge" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=4584b6&labelColor=black">
+</li>
+</ul>
 </section>
