@@ -1,4 +1,5 @@
 <section style="font-size: 16px;" align="center">
+<img width="auto" height="350" style="object-fit: contain; object-position: 37% 10%;" src="./public/images/img-zMI0uETxzOfaUUVhw14lC.jpeg">
   <section>
   <h2>
     🖥️ Welcome to my Github profile! 🖥️
