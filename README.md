@@ -48,6 +48,7 @@
 
 <h2>Use To Code</h2>
   <p><strong>Languages</strong></p>
+  <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&labelColor=black&color=f7df1e">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=Ruby&logoColor=e0115f&labelColor=black&color=e0115f">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=HTML5&logoColor=yellow&labelColor=black&color=grey">
@@ -56,6 +57,7 @@
   <br>
 
   <p><strong>FrameWorks</strong></p>
+  <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/React_Js-61DBFB?style=for-the-badge&logo=React&logoColor=61DBFB&labelColor=black&color=61DBFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node_Js-3C873A?style=for-the-badge&logo=Node.js&logoColor=3C873A&labelColor=black&color=3C873A">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ajax-yellow?style=for-the-badge">
@@ -70,7 +72,7 @@
 
 
 <h2>Use To Test</h2>
-
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=Cypress&logoColor=white&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Rspec-e0115f?style=for-the-badge&logo=Ruby&logoColor=e0115f&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest&logoColor=yellow&labelColor=black">
@@ -80,16 +82,18 @@
 <br>
 
 <h2>Systems & Databases</h2>
-
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-008bb9?style=for-the-badge&logo=PostgreSQL&logoColor=008bb9&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-yellow?style=for-the-badge&logo=Supabase&logoColor=yellow&labelColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-4183C4?style=for-the-badge&logo=Git&logoColor=4183C4&labelColor=black">
 
 <br>
+<h2>Learning In Progress</h2>
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F0DB4F?style=for-the-badge&logo=TypeScript&logoColor=F0DB4F&labelColor=black">
 
 <h2>Bucket-List To Learn</h2>
 <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-F0DB4F?style=for-the-badge&logo=TypeScript&logoColor=F0DB4F&labelColor=black">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=4584b6&labelColor=black">
 
