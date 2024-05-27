@@ -21,6 +21,9 @@
     <a href="https://www.instagram.com/atkinsz/">
       <img alt="Atkins' Instagram" src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
+    <a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge">
+    </a>
   </p>
   </section>
   <section style="margin-inline: 20px;font-family: Inter; font-size: 16px;" align="left">
