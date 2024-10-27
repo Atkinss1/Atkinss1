@@ -21,7 +21,7 @@
     <a href="https://www.instagram.com/atkinsz/">
       <img alt="Atkins' Instagram" src="https://img.shields.io/badge/Instagram-fd1d1d?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a>
+    <a href="https://flowcv.com/resume/in6ikjbl92">
       <img alt="Static Badge" src="https://img.shields.io/badge/Resume-blue?style=for-the-badge">
     </a>
   </p>
